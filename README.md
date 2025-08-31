@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🩺 MediQ — AI-Powered Health Report Assistant
 
 Mediq is an AI health assistant that smartly analyzes your medical reports (PDFs, scans) and provides AI-powered explanations for your queries.
@@ -114,3 +115,6 @@ Always consult a doctor for real medical decisions.
 
 Developed by Surjan Thakur 🧑‍💻
 Currently building AI Agents in Python.
+=======
+# MediQ_agent
+>>>>>>> 8ac60f3413f3b2774f79ecb9af8234191819e482
