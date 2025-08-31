@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.sqlite3
+
+# Virtual environments
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+
