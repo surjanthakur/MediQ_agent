@@ -88,7 +88,7 @@ def document_uploading():
                 # split texts
                 text_splitter = RecursiveCharacterTextSplitter(
                     chunk_size=200,
-                    chunk_overlap=50,
+                    chunk_overlap=44,
                 )
                 split_docs = text_splitter.split_documents(docs)
 

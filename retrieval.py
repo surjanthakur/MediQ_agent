@@ -1,7 +1,6 @@
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_qdrant import QdrantVectorStore
 from groq import Groq
-import streamlit as st
 import os
 from system_prompt import system_prompt
 from dotenv import load_dotenv
